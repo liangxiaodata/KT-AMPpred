@@ -1,5 +1,5 @@
-# KT-AMP
-KT-AMP: Enhancing Antimicrobial Peptide Functions Prediction through Knowledge Transfer on Protein Language Model
+# KT-AMPpred
+Enhancing Antimicrobial Peptide Function Prediction via Knowledge Transfer on Protein Language Models
 # Requirements
 * python == 3.7
 * pytorch == 1.11.0
